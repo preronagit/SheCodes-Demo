@@ -1,1 +1,1 @@
-This is a webpage created for SheCodes. This is not yet responsive.
+These are sample webpages created for SheCodes using HTML and CSS. The pages are not yet responsive.
